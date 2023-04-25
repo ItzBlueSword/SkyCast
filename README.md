@@ -1,4 +1,4 @@
-# SkyCast
+<h1 align="center">SkyCast</h1>
 **SkyCast** is a simple yet powerful tool for checking the latest weather information for any city around the world. With a clean and intuitive user interface, users can quickly find the information they need, including the current temperature, description, and icon for the specified city.
 
 ## Features
