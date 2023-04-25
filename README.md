@@ -16,7 +16,7 @@ Contributions to this weather app are welcome and appreciated! If you would like
 
 1. Fork the repository and create a new branch for your changes.
 
-2.Make your changes and test them thoroughly.
+2. Make your changes and test them thoroughly.
 
 3. Commit your changes with clear and descriptive commit messages.
 
